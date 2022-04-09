@@ -1,2 +1,2 @@
 # counter
-counter on android studio and python
+counter on android studio 
